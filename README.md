@@ -44,9 +44,8 @@ Edit
 ## ⚡ Installation & Run
 Clone the repository and start the game locally:
 
-```bash
 # Clone the repo
-git clone https://github.com/yourusername/tetris-fx.git
+git clone https://github.com/Mazid2003/Tetris-Game-using-Vite-and-React.git
 
 # Move into folder
 cd tetris-fx
@@ -56,7 +55,7 @@ npm install
 
 # Run the game
 npm start
-Then open 👉 http://localhost:3000 to play.
+Then open 👉 http://localhost:5173 to play.
 
 🎯 Future Enhancements
 🎵 Background music & sound effects
@@ -71,19 +70,7 @@ Then open 👉 http://localhost:3000 to play.
 (Add a screenshot or gameplay GIF here)
 
 🧑‍💻 Author
-Built with ❤️ by Your Name
-
-vbnet
-Copy
-Edit
-
-Would you like me to make this **shorter (just overview + run instructions)** or keep it with all details (features, controls, structure)?
+Built with ❤️ by [Mohammad Mazid]()
 
 
 
-
-
-
-
-Ask ChatGPT
-# Tetris-Game-using-Vite-and-React
