@@ -24,6 +24,7 @@ Designed to be **unique, responsive, and engaging** with smooth animations and i
 ---
 
 ## 📂 Project Structure
+```
 tetris-fx/
 │── public/ # Static assets
 │── src/
@@ -34,11 +35,7 @@ tetris-fx/
 │ └── index.tsx # Entry point
 │── package.json
 │── README.md
-
-yaml
-Copy
-Edit
-
+```
 ---
 
 ## ⚡ Installation & Run
