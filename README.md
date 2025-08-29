@@ -68,8 +68,9 @@ Then open 👉 http://localhost:5173 to play.
 
 (screenshot)
 
-🧑‍💻 Author
-Built with ❤️ by [Mohammad Mazid]()
+**🧑‍💻 Author**
+
+Built with ❤️ by [Mohammad Mazid](https://www.linkedin.com/in/mohammadmazid)
 
 
 
