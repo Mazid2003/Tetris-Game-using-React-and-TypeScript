@@ -1,6 +1,6 @@
 # 🎮 Tetris-FX
 
-A modern and animated **Tetris clone** built with **React + TypeScript**.  
+A modern and animated **Tetris game** built with **React + TypeScript**.  
 Designed to be **unique, responsive, and engaging** with smooth animations and increasing difficulty as you play.
 
 ---
