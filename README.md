@@ -42,7 +42,7 @@ tetris-fx/
 Clone the repository and start the game locally:
 
 # Clone the repo
-git clone https://github.com/Mazid2003/Tetris-Game-using-Vite-and-React.git
+git clone https://github.com/Mazid2003/Tetris-Game-using-React-and-TypeScript.git
 
 # Move into folder
 cd tetris-fx
