@@ -54,7 +54,8 @@ npm install
 npm start
 Then open 👉 http://localhost:5173 to play.
 
-🎯 Future Enhancements
+**🎯 Future Enhancements**
+
 🎵 Background music & sound effects
 
 🏆 High-score leaderboard
@@ -63,8 +64,9 @@ Then open 👉 http://localhost:5173 to play.
 
 👥 Multiplayer mode
 
-📸 Preview
-(Add a screenshot or gameplay GIF here)
+**📸 Preview**
+
+(screenshot)
 
 🧑‍💻 Author
 Built with ❤️ by [Mohammad Mazid]()
