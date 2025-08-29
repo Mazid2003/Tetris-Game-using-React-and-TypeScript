@@ -41,17 +41,21 @@ tetris-fx/
 ## ⚡ Installation & Run
 Clone the repository and start the game locally:
 
-# Clone the repo
+## Clone the repo
 git clone https://github.com/Mazid2003/Tetris-Game-using-React-and-TypeScript.git
 
-# Move into folder
+## Move into folder
+
 cd tetris-fx
 
-# Install dependencies
+## Install dependencies
+
 npm install
 
-# Run the game
+## Run the game
+
 npm start
+
 Then open 👉 http://localhost:5173 to play.
 
 **🎯 Future Enhancements**
