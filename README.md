@@ -8,7 +8,7 @@ Designed to be **unique, responsive, and engaging** with smooth animations and i
 ## 🚀 Features
 - 🧩 Classic Tetris gameplay with modern animations  
 - 📱 Fully responsive design (works on desktop & mobile)  
-- 🎨 Unique theme and FX-based visuals  
+- 🎨 Unique theme and FX-based visuals
 - ⏫ Increasing difficulty as you clear lines  
 - ⌨️ Keyboard controls for smooth gameplay  
 
