@@ -10,7 +10,7 @@ Designed to be **unique, responsive, and engaging** with smooth animations and i
 - 📱 Fully responsive design (works on desktop & mobile)  
 - 🎨 Unique theme and FX-based visuals
 - ⏫ Increasing difficulty as you clear lines  
-- ⌨️ Keyboard controls for smooth gameplay  
+- ⌨️ Keyboard controls for smooth gameplay 
 
 ---
 
