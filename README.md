@@ -70,8 +70,8 @@ Then open 👉 http://localhost:5173 to play.
 
 **📸 Preview**
 
-<img width="1366" height="768" alt="screenshot_2025-08-31_14-01-42" src="https://github.com/user-attachments/assets/0954d9e0-817d-4546-a2e7-6c4381b013af" />
 <img width="1366" height="768" alt="screenshot_2025-08-31_14-01-06" src="https://github.com/user-attachments/assets/2b3be0a3-80c1-4e22-98c5-a86e585ce240" />
+<img width="1366" height="768" alt="screenshot_2025-08-31_14-01-42" src="https://github.com/user-attachments/assets/0954d9e0-817d-4546-a2e7-6c4381b013af" />
 <img width="1366" height="768" alt="screenshot_2025-08-31_14-03-04" src="https://github.com/user-attachments/assets/003f8467-eb94-48db-b691-63d6e72f8725" />
 
 **🧑‍💻 Author**
