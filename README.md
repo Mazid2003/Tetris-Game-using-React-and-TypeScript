@@ -74,11 +74,11 @@ Then open 👉 http://localhost:5173 to play.
 <img width="1366" height="768" alt="screenshot_2025-08-31_14-01-42" src="https://github.com/user-attachments/assets/0954d9e0-817d-4546-a2e7-6c4381b013af" />
 <img width="1366" height="768" alt="screenshot_2025-08-31_14-03-04" src="https://github.com/user-attachments/assets/003f8467-eb94-48db-b691-63d6e72f8725" />
 
-💬 Want to Collaborate?
+**💬 Want to Collaborate?**
 
 Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
 
-📜 License
+**📜 License**
 
 This project is open-source under the MIT License. Feel free to use and modify it! 🚀
 
